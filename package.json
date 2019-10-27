@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A React-Static plugin that adds Google Analytics tracking",
   "repository": "https://github.com/DanWebb/react-static-plugin-google-analytics",
-  "main": "browser.api.js",
+  "main": "node.api.js",
   "keywords": [],
   "author": "Dan Webb <mail@danwebb.co> (https://danwebb.co)",
   "license": "MIT",

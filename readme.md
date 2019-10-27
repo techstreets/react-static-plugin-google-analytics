@@ -15,7 +15,7 @@ Then add the plugin to the default export of your `static.config.js` and specify
 ```javascript
 export default {
   plugins: [
-    ["react-static-plugin-google-analytics", {id: 'GOOGLE ANALYTICS ID'}]
+    ['react-static-plugin-google-analytics', {id: 'GOOGLE ANALYTICS ID'}]
   ]
 };
 ```

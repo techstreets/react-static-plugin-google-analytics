@@ -1,5 +1,4 @@
 .history
-browser.api.js
 node_modules
 *.log
 .DS_Store
